@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "hashed_password"
+    },
+    {
+      "id": "user2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "password": "hashed_password"
+    },
+    {
+      "id": "0147",
+      "username": "Dolphine",
+      "email": "dolphine254@gmail.com",
+      "password": "dolphine254"
+    },
+    {
+      "id": "92b4",
+      "username": "Erick Kimathi",
+      "email": "erick254@gmail.com",
+      "password": "erick254@kim"
+    },
+    {
+      "id": "b33e",
+      "username": "Caroline Wangui",
+      "email": "mburucarol@gmail.com",
+      "password": "mburucarol254"
+    }
+  ]
+}
